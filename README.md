@@ -1,6 +1,6 @@
 # Student-Dashboard-using-POWER-BI
 
-# 🎓 Student Performance Dashboard
+# Student Performance Dashboard
 
 A Power BI + Python project that visualizes academic data of 500+ students across departments using a fully interactive dashboard.
 
