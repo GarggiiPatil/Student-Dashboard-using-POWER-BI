@@ -26,5 +26,5 @@ A Power BI + Python project that visualizes academic data of 500+ students acros
 <img width="1281" height="727" alt="image" src="https://github.com/user-attachments/assets/661dac3e-e2de-4988-955a-131c119cd639" />
 
 
-## 👩‍💻 Author
+## Author
 Gargi Patil
